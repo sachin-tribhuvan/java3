@@ -1,4 +1,2 @@
-docker swarm join --token SWMTKN-1-4tgs93e1x9mwqovnt9tm0cfbjuuej8hfx1m3n888nc75wfy6e5-6ut9inv396nepo9a8boog3ru6 10.164.176.115:2377
-
-docker swarm join --token SWMTKN-1-55muck9qd9uf075b49zm811q4xruk5qt6yknqtxh1q7oygjfrj-68d967i3fldvqwegczqnc1qcl 10.164.176.115:2377
+docker swarm join --token SWMTKN-1-32rvf509xka8tm1a7njeqknzhp8wktijq0qccvfltcpd6u7ptd-6h1n86nqtk4uga5fj0drwsnyy 10.164.176.115:2377
 
